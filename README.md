@@ -17,9 +17,9 @@ The system detects and recognizes faces from images with high accuracy.
   -Made by me
   The model can be trained on any structured face dataset with labeled folders for each individual.
   ## Future Enhancements
-  -Add face embeddings using FaceNet or dlib
-  -Improve real-time performance
-  -Deploy using Flask or Streamlit as a web app
-  -Real-time face recognition via webcam
-  -Uses OpenCV for image processing and camera input
+  - Add face embeddings using FaceNet or dlib
+  - Improve real-time performance
+  - Deploy using Flask or Streamlit as a web app
+  - Real-time face recognition via webcam
+  - Uses OpenCV for image processing and camera input
   
